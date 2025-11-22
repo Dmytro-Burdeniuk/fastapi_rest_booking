@@ -1,0 +1,12 @@
+fastapi
+alembic
+uvicorn[standard]
+SQLAlchemy>=2.0,<3.0
+psycopg2-binary
+pydantic
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]
+python-dotenv
+python-multipart
+email-validator
+bcrypt==3.2.2
